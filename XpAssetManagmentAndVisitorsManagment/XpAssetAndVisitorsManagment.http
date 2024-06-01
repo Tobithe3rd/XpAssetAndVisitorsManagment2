@@ -1,0 +1,6 @@
+@XpAssetManagmentAndVisitorsManagment_HostAddress = http://localhost:5263
+
+GET {{XpAssetManagmentAndVisitorsManagment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
